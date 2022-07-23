@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "coursename":"",
+        "courseyear":"",
+        "institute":"",
+        "grade":""
+    },
+    {
+        "id":2,
+        "coursename":"",
+        "courseyear":"",
+        "institute":"",
+        "grade":""
+    },
+    {
+        "id":3,
+        "coursename":"",
+        "courseyear":"",
+        "institute":"",
+        "grade":""
+    },
+    {
+        "id":4,
+        "coursename":"SSC",
+        "courseyear":"",
+        "institute":"",
+        "grade":""
+    }
+]

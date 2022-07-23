@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "year":"front end",
+        "companyname":"Language & tools",
+        "position":"",
+        "desc":"React / JavaScript / jQuery / Handlebars / HTML / CSS / Bootstrap "
+    },
+    {
+        "id":2,
+        "year":"Backend",
+        "companyname":"Language & tools",
+        "position":"",
+        "desc":"ode.js / Express / REST APIs / Apollo / SQL / MongoDB / Mongoose / Git / Webpack / GraphQL / jest / Heroku / DBeaver / Insomnia / Postman / MVC / Sequelize"
+    }
+
+]

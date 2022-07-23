@@ -1,0 +1,18 @@
+
+[
+    {
+        "id":1,
+        "servicename":"Graphic Design",
+        "imgg":"https://i.imgur.com/fc11OPk.png"
+    },
+    {
+        "id":2,
+        "servicename":"Interface / Web Design",
+        "imgg":"https://i.imgur.com/4cEJ94h.png"
+    },
+    {
+        "id":3,
+        "servicename":"Web Development",
+        "imgg":"https://i.imgur.com/WcSJzvE.png"
+    }
+]
