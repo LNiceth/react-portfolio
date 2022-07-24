@@ -8,8 +8,16 @@ const PageNotFound = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-12">
-            <h1>404</h1>
-            <h2>Page Not Found!</h2>
+          <ul>
+    <li><h1 class="highlight">Lord Niceth Cuevas</h1></li>
+    <li class="highlight_reverse">Web Developer</li>
+    <li>
+      <span class="highlight_reverse">Designer</span> 
+      
+    </li>
+    <li class="highlight_reverse">Artist</li>
+  </ul>
+           
           </div>
         </div>
       </div>

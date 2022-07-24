@@ -1,1 +1,54 @@
 #pagenotfound{height: 100vh;display: flex;justify-content: center;align-items: center;  min-height: 100vh;}
+
+:root {
+    --c-bg: hsl(-30, 100%, 94.5%);
+    --c-text: hsl(0, 0%, 0%);
+  }
+  
+  body {
+    background: var(--c-bg);
+  }
+  
+  header {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .highlight, .highlight_reverse
+  {
+    font-size: 5rem;
+    color: var(--c-text);
+    font-weight: bold;
+  }
+  
+  .highlight {
+    cursor: pointer;
+    transition: color .3s ease-out, text-shadow .3s ease-out;
+  }
+  
+  .highlight:hover, .highlight_reverse {
+    --stroke-color: var(--c-text);
+    --stroke-width: 1px;
+    color: var(--c-bg);
+    text-shadow: var(--stroke-width)  0 0 var(--stroke-color),
+      calc(var(--stroke-width) * -1) 0 0 var(--stroke-color),
+      0 var(--stroke-width) 0 var(--stroke-color),
+      0 calc(var(--stroke-width) * -1) 0 var(--stroke-color);
+  }
+  
+  .highlight_reverse:hover {
+    color: var(--c-text);
+    text-shadow: var(--stroke-width)  0 0 transparent;
+  }
+  
+  li, ul, h1 {
+    margin: 0; 
+    padding: 0;
+  }
+  
+  li {
+    list-style: none inside none; 
+  } 

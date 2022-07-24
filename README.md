@@ -13,11 +13,9 @@ This portfolio is designed to highlight my skills and past projects. It also ser
 - Html
 
 ## 📎 Usage
-To visit the portfolio, follow [this link]().
+To visit the portfolio, follow [this link](https://lniceth.github.io/react-portfolio/).
 
 ## 📷 Screenshots
 
-### 💻 Desktop View
-
-#### Projects
+![home](src\Data\Portfolioimg\home.png)
 
