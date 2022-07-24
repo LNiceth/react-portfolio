@@ -17,5 +17,9 @@ To visit the portfolio, follow [this link](https://lniceth.github.io/react-portf
 
 ## 📷 Screenshots
 
-![home](src\Data\Portfolioimg\home.png)
-
+![home](screenshots/home.png)
+![about](screenshots/about.png)
+![whatido](screenshots/whatido.png)
+![skills](screenshots/skills.png)
+![projects](screenshots/projects.png)
+![contactme](screenshots/contactme.png)
