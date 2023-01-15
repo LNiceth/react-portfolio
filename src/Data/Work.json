@@ -1,17 +1,31 @@
 [
     {
         "id":1,
-        "year":"front end",
-        "companyname":"Language & tools",
+        "year":"Front end",
+        "companyname":"Language & Tools",
         "position":"",
-        "desc":"React / JavaScript / jQuery / Handlebars / HTML / CSS / Bootstrap "
+        "desc":"Wordpress/ Elementor/ React / JavaScript / jQuery / Handlebars / HTML / CSS / Bootstrap "
     },
     {
         "id":2,
         "year":"Backend",
-        "companyname":"Language & tools",
+        "companyname":"Language & Tools",
         "position":"",
-        "desc":"ode.js / Express / REST APIs / Apollo / SQL / MongoDB / Mongoose / Git / Webpack / GraphQL / jest / Heroku / DBeaver / Insomnia / Postman / MVC / Sequelize"
+        "desc":"ode.js / Express / REST APIs / Apollo / SQL / MongoDB / Mongoose / Git / Webpack / GraphQL / jest / Heroku / DBeaver / Insomnia / Postman / MVC / Sequelize."
+    },
+    {
+        "id":3,
+        "year":"Seo",
+        "companyname":"Tools",
+        "position":"",
+        "desc":"On Page Seo/ Off Page Seo/ Google ads/ Google Search console/ Google Analytics/ ahrefs/ Reporting."
+    },
+    {
+        "id":4,
+        "year":"Graphic Design",
+        "companyname":"Tools",
+        "position":"",
+        "desc":"Adobe Suite/ Adobe Photoshop/ Adobe Illustrator/ Adobe Premier/ Figma/ Canva."
     }
 
 ]

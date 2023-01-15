@@ -1,36 +1,42 @@
 [
   {
     "id": 1,
+    "projectimg": "https://i.imgur.com/1gZG2NG.png",
+    "codelink": "https://truganinait.com.au/",
+    "livelink": "https://truganinait.com.au/"
+  },
+  {
+    "id": 2,
+    "projectimg": "https://i.imgur.com/Gqe8stc.png",
+    "codelink": "https://ayshomecare.staging.gici.com.au/",
+    "livelink": "https://ayshomecare.staging.gici.com.au/"
+  },
+  {
+    "id": 3,
     "projectimg": "https://i.imgur.com/WpTG93T.png",
     "codelink": "https://github.com/trietryannguyen/project-group-1",
     "livelink": "https://lniceth.github.io/Movie-Box/"
   },
   {
-    "id": 2,
-    "projectimg": "https://i.imgur.com/MNea5se.jpg",
-    "codelink": "https://github.com/jamesthomasbester/Book_Box/tree/main",
-    "livelink": "https://handlebars-book-box.herokuapp.com/"
-  },
-  {
-    "id": 3,
+    "id": 4,
     "projectimg": "https://i.imgur.com/riSv3Kt.png",
     "codelink": "https://github.com/LNiceth/Tech-Blog",
     "livelink": "https://tech-blog27.herokuapp.com/"
   },
   {
-    "id": 4,
+    "id": 5,
     "projectimg": "https://i.imgur.com/bYzQe6O.jpg",
     "codelink": "https://github.com/LNiceth/Work-Day-Planner",
     "livelink": "https://lniceth.github.io/Work-Day-Planner/"
   },
   {
-    "id": 5,
+    "id": 6,
     "projectimg": "https://i.imgur.com/Z0qU3Dd.png",
     "codelink": "https://github.com/LNiceth/Weather-Dashboard",
     "livelink": "https://lniceth.github.io/Weather-Dashboard/"
   },
   {
-    "id": 6,
+    "id": 7,
     "projectimg": "https://i.imgur.com/zFcoONL.png",
     "codelink": "https://github.com/LNiceth/Quiz-App",
     "livelink": "https://lniceth.github.io/Quiz-App/"

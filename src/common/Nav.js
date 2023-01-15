@@ -54,7 +54,7 @@ const Nav = () => {
           <Link to="/projects">
             <li data-aos="zoom-in">
               <img src={Jsprojects} alt="jsprojects" />     <div class="slider">
-        <p>projects</p>
+        <p>Portfolio</p>
       </div>
             </li>
           </Link>

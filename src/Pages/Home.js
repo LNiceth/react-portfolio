@@ -65,7 +65,7 @@ const Home = () => {
           <div className="col-sm-5 offset-sm-2">
             <div className="rightcontent" data-aos="fade-right">
               <h1>Lord Niceth Cuevas</h1>
-              <h2>Front End Developer</h2>
+              <h2>Web Designer/Web Developer</h2>
               <br />
               <div className="row">
                 <div className="col-sm-4">
